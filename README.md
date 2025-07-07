@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ejleo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ejleo/ejleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+git init
+git remote add origin https://github.com/yourusername/aircond-booking-form.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
